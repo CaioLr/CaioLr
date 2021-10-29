@@ -2,6 +2,7 @@
 
 #### Sou estudante de Sistemas de Informação na UFRRJ
 
+---
 <!--
 **CaioLr/CaioLr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
