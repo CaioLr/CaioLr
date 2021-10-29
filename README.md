@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Caio Eduardo ☕
 
-## Sou estudante de Sistemas de Informação na UFRRJ
+#### Sou estudante de Sistemas de Informação na UFRRJ
 
 <!--
 **CaioLr/CaioLr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![CaioLr's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiolr&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiolr&layout=&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/CaioLr">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caiolr&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolr&layout=&theme=dark"/>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/caio-eduardo-316906215/)
