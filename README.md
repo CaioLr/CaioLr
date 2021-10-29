@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![CaioLr's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiolr&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiolr&layout=&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](+https://www.linkedin.com/in/caio-eduardo-316906215/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/caio-eduardo-316906215/)
