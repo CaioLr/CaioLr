@@ -47,4 +47,4 @@ Here are some ideas to get you started:
   
 ---
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0D0D?style=for-the-badge&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/caio-eduardo-316906215/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0D0D?style=for-the-badge&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/caio-ramos-316906215/)
