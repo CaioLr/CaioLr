@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/CaioLr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiolr&show_icons=true&theme=radical"/>
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiolr&show_icons=true&theme=radical"/> -->
   </a>
   <img height="180em"  src="https://c.tenor.com/w8BBPDeT-rQAAAAC/batman-batman-drinks-coffee.gif" />
   
