@@ -34,6 +34,6 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0D0D?style=for-the-badge&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/caio-ramos-316906215/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caioeduardodev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caioeduardodev@gmail.com)
 
 
