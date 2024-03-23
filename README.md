@@ -1,6 +1,6 @@
 ### 👋 Opa, eu sou Caio Eduardo ☕
 
-#### Sou estudante de Sistemas de Informação na UFRRJ
+#### 
 
 <div>
   <img height="180em"  src="https://c.tenor.com/w8BBPDeT-rQAAAAC/batman-batman-drinks-coffee.gif" />
@@ -27,6 +27,6 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0D0D?style=for-the-badge&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/caio-ramos-316906215/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caioeduardodev@gmail.com)
+
 
 
