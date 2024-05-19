@@ -1,4 +1,4 @@
-### Hi, I'm Caio Eduardo ☕👋
+### Hi, I'm Caio ☕👋
 
 ---
 <picture>
