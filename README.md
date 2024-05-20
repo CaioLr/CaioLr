@@ -32,7 +32,7 @@
   ### Contact
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0D0D?style=for-the-badge&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/caio-ramos-316906215/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-eduardo-ramos/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.caioramos.me/)
 
 
