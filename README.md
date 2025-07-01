@@ -2,8 +2,8 @@
 ---
 
 <div class="flex">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolr&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=6" height="250"/>
-  <img src="https://c.tenor.com/MYZgsN2TDJAAAAAC/tenor.gif" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolr&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=6" height="200"/>
+  <img src="https://c.tenor.com/MYZgsN2TDJAAAAAC/tenor.gif" height="200"/>
 </div>
 
 ---
