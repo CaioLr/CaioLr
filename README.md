@@ -1,7 +1,9 @@
 ### Hi, I'm Caio ☕👋
 ---
 
-![github-used-languages](https://github-used-languages.vercel.app/caiolr?config=config.json)
+<a href="https://github.com/CaioLr/github-used-languages" target="_blank">
+  <img src="https://github-used-languages.vercel.app/caiolr?config=config.json" alt="github-used-languages"/>
+</a>
 
 ---
 ### Contact
