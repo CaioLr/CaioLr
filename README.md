@@ -1,4 +1,4 @@
-### Hi, I'm Caio ☕👋
+### Hi, I'm Caio 👋☕
 ---
 
 <a href="https://github.com/CaioLr/github-used-languages" target="_blank">
