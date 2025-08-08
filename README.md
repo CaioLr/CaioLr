@@ -1,12 +1,11 @@
 ### Hi, I'm Caio ☕👋
 ---
-
+<a href="https://github.com/CaioLr/github-used-languages" target="_blank">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/caiolr?config=config.json&theme=dark">
-  <a href="https://github.com/CaioLr/github-used-languages" target="_blank">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/caiolr?config=config.json&theme=dark">
     <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/caiolr?config=config.json">
-  <a>
 </picture>
+<a>
 
 ---
 ### Contact
