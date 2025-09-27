@@ -39,13 +39,13 @@
         },
         {
             "name": "C++",
-            "extensions": ["cpp", "cc", "cxx", "hpp", "hh"],
+            "extensions": ["cpp", "cc", "cxx"],
             "color": "#F34B7D",
             "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
         },
         {
             "name": "C",
-            "extensions": ["c", "h"],
+            "extensions": ["c"],
             "color": "#555555",
             "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
         },
