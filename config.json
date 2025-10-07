@@ -71,13 +71,13 @@
             "name": "Go",
             "extensions": ["go"],
             "color": "#00ADD8",
-            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
         },
         {
             "name": "Rust",
             "extensions": ["rs"],
             "color": "#DEA584",
-            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
+            "image": "https://zhangyue.gallerycdn.vsassets.io/extensions/zhangyue/rust-mod-generator/1.0.12/1753842725141/Microsoft.VisualStudio.Services.Icons.Default"
         },
         {
             "name": "TypeScript",
