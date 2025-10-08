@@ -177,7 +177,7 @@
         },
         {
             "name": "Terraform",
-            "extensions": ["tf"],
+            "extensions": ["tf","hcl"],
             "color": "#7B42BC",
             "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"
         },
