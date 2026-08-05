@@ -3,7 +3,7 @@
 <a href="https://github.com/CaioLr/github-used-languages" target="_blank">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-used-languages.vercel.app/v2/caiolr?config=config.json&theme=dark&ascii-type=focus-white">
-    <img alt="Most Used Languages'" src="http://github-used-languages.vercel.app/v2/caiolr?config=config.json">
+    <img alt="Most Used Languages'" src="http://github-used-languages.vercel.app/v2/caiolr?config=config.json&ascii-size=70">
 </picture>
 <a>
 
