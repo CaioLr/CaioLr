@@ -212,6 +212,14 @@
         "Name": "..................... Caio Furtado",
         "Country": "........................ Brazil",
         "Favorite Languages": "...... Rust | Python"
+      },
+      "ascii_type": {
+        "light": "",
+        "dark": "focus-white"
+      },
+      "ascii_size": {
+        "light": 70,
+        "dark": "50
       }
     }
     
